@@ -1,0 +1,1 @@
+﻿Bu proje içinde sadece Entity classları olması gerekiyor
